@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats
 
-<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=jeganathpv&show_icons=true&theme=radical&hide_title=true" alt="jeganathpv" /> -->
