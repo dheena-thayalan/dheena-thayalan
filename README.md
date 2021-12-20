@@ -19,17 +19,12 @@ Hi, I'm [Dheena M](#), a Full Stack developer and a software engineer from India
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<!--
-**dheena-thayalan/dheena-thayalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💬 Ping me about anything, I am happy to help;
 - 🔭  I’m currently working on my first book.
 - 🌱 I’m currently learning .Net Core
 - 👯 I’m looking to collaborate on open source
 -⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada )
--->
+
 
 <!-- <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Let's Ride" height="41" width="174"></a>
 <br/> -->
@@ -49,5 +44,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-📈 My GitHub Stats
+<!-- 📈 My GitHub Stats -->
 
