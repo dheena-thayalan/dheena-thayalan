@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 -⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada )
 -->
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Let's Ride" height="41" width="174"></a>
-<br/>
+<!-- <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Let's Ride" height="41" width="174"></a>
+<br/> -->
 
 ### Languages and Tools:
 
